@@ -1,0 +1,2 @@
+set :var equal to 100
+print :var to the screen
