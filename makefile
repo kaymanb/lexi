@@ -1,2 +1,2 @@
-lexermake: lexer.c
-	gcc -Wall -o lexer lexer.c
+lexermake: lexi.c
+	gcc -Wall -o lexi lexi.c
